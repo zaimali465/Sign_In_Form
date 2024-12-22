@@ -11,6 +11,7 @@ Code Verification section with a sample code.
 Sign In, Create New Account, and Forgot Password buttons.
 Responsive design with a background image that adapts to different screen sizes.
 Simple, clean, and user-friendly layout.
+
 **Technologies Used:**
 
 HTML for structure
